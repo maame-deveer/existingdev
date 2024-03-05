@@ -10,6 +10,9 @@ author: M.L De Veer
 
 <div align="justify">The year 2023 witnessed a cascade of technological breakthroughs that reshaped the landscape of innovation. From cutting-edge advancements in artificial intelligence to the evolution of programming languages like C# and .NET, let's delve into the key highlights that marked this transformative year.</div>
 
+
+## Table of Content
+
 - [AI's Soaring Heights:](#ai)
 - [Edge Computing's Prowess](#edge)
 - [5G's Integration](#5g)
