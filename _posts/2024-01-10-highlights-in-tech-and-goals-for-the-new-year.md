@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tech Highlights of 2023 : Unveiling the Future
+title: Tech Highlights of 2023 Unveiling the Future
 subtitle: Looking back on 2023 and Lining Out My Plans For 2024
 cover-img: /assets/img/highlights-2023.jpg
 share-img: /assets/img/highlights-2023.jpg
