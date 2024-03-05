@@ -8,7 +8,7 @@ tags: [Journal]
 author: M.L De Veer
 ---
 
-avigating the labyrinth of tech as a junior developer has been a rollercoaster of uncertainty, self-discovery, and relentless determination. Here's a glimpse into my journey so far:
+Navigating the labyrinth of tech as a junior developer has been a rollercoaster of uncertainty, self-discovery, and relentless determination. Here's a glimpse into my journey so far:
 
 ## Humble Beginnings
 

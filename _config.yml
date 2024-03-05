@@ -25,12 +25,12 @@ navbar-links:
     - News: "https://maame-deveer.github.io/techhollow/tags/#news"
     - Rust: "https://maame-deveer.github.io/techhollow/tags/#rust"
     - C-Sharp: "https://maame-deveer.github.io/techhollow/tags/#c-sharp"
-    - Tutorials: "https://maame-deveer.github.io/techhollow/tags/#tutorials"
+    - Tutorial: "https://maame-deveer.github.io/techhollow/tags/#tutorials"
     - Featured: "https://maame-deveer.github.io/techhollow/tags/#featured"
     - Journal: "https://maame-deveer.github.io/techhollow/tags/#journal"
   Portfolio: "https://maame-deveer.github.io/maamedeveer/"
   About: 
-    - TechHollow: "aboutsite"
+    - Tech Hollow: "aboutsite"
     - Author: "aboutme"
   Contact: "mailto:maamelankar.deveer@gmail.com"
 
