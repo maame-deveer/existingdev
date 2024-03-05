@@ -59,11 +59,11 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "maamelankar.deveer@gmail.com"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
   linkedin: maamelankardeveer
   twitter: maame_deveer
   github: maame-deveer
   youtube: "@techhollow"
+  rss: true  # remove this line if you don't want to show an RSS link at the bottom
 #  medium: yourname
 #  reddit: yourname
 #  stackoverflow: "3943160/daattali"
