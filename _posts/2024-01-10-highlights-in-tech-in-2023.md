@@ -13,7 +13,7 @@ author: M.L De Veer
 
 ## Table of Content
 
-- [AI's Soaring Heights:](#ai)
+- [AI's Soaring Heights](#ai)
 - [Edge Computing's Prowess](#edge)
 - [5G's Integration](#5g)
 - [Sustainable Tech Initiatives](#sustainable)
