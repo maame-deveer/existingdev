@@ -18,9 +18,7 @@ author: M.L De Veer
 
 ## The Struggle for Opportunities
 
-<div align="justify">So far my hunt for my first junior dev role has been unfruitful. A lot of the dev roles I have found are mainly for intermediate to senior developers, mainly in my country. Most jobs ask for an absurd number of skills and I am just out of uni. I have tried applying for junior dev roles outside my country but so far I have been rejected. At least they send a rejection mail, most do not even acknowledge nor send one. This unfortunately has contributed to my growing self-doubt. Countless rejections have tested my resolve, but I refuse to let the setbacks define me.</div>
-
-<div align="justify">I want professional experience and to greatly improve my skills. I have also applied to a few internships, but I have been rejected from some of those too. Another option is to go on and complete my master's and find a job from there, but I already feel left behind and to me having a Master's degree with no professional experience in tech is useless. After all, experience is more valuable than academic achievement.</div>
+<div align="justify">So far my hunt for my first junior dev role has been unfruitful. A lot of the dev roles I have found are mainly for intermediate to senior developers, mainly in my country. Most jobs ask for an absurd number of skills and I am just out of uni. I have tried applying for junior dev roles outside my country but so far I have been rejected. At least they send a rejection mail, most do not even acknowledge nor send one. This unfortunately has contributed to my growing self-doubt. Countless rejections have tested my resolve, but I refuse to let the setbacks define me.I want professional experience and to greatly improve my skills. I have also applied to a few internships, but I have been rejected from some of those too. Another option is to go on and complete my master's and find a job from there, but I already feel left behind and to me having a Master's degree with no professional experience in tech is useless. After all, experience is more valuable than academic achievement.</div>
 
 ## Embracing the Learning Curve
 
