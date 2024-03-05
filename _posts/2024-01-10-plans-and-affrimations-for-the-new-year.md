@@ -14,22 +14,22 @@ author: M.L De Veer
 ## Table of Content
 
 - [Personal Highlights](#personal)
--- [Completing My Bachelor's Degree](#degree)
--- [Created My Portfolio Website And Started A Blog](#portfolio-and-blog)
--- [Advanced My Knowledge In C-Sharp](#learned-csharp)
--- [Built My First Class Library](#classlib)
--- [Joined Game Jams](#gamejams)
--- [Started Learning Rust](#learned-rust)
--- [Made My First OpenSource Contribution](#first-opensource-contribution)
+* [Completing My Bachelor's Degree](#degree)
+* [Created My Portfolio Website And Started A Blog](#portfolio-and-blog)
+* [Advanced My Knowledge In C-Sharp](#learned-csharp)
+* [Built My First Class Library](#classlib)
+* [Joined Game Jams](#gamejams)
+* [Started Learning Rust](#learned-rust)
+* [Made My First OpenSource Contribution](#first-opensource-contribution)
 
 - [Gals For The New Year](#2024goals)
--- [Continue Learning C# And Rust](#continue-learning-csharp-and-rust)
--- [Attend Tech Events And Network ](#networking)
--- [Work On Getting Certifications](#certifications)
--- [Join More Game Jams And Hackerthon](#gamejams-and-hackerthons)
--- [Build More Personal Projects](#projects)
--- [Further Into OpenSource](#opensource-involvement)
--- [Gain Real-World Experience](#work-experience)
+* [Continue Learning C# And Rust](#continue-learning-csharp-and-rust)
+* [Attend Tech Events And Network ](#networking)
+* [Work On Getting Certifications](#certifications)
+* [Join More Game Jams And Hackerthon](#gamejams-and-hackerthons)
+* [Build More Personal Projects](#projects)
+* [Further Into OpenSource](#opensource-involvement)
+* [Gain Real-World Experience](#work-experience)
 
 
 <a id="personal"></a>
