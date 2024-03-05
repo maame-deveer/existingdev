@@ -1,16 +1,19 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About The Author
+subtitle: 
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Hi I'm Maame Lankar De Veer. I am the wandering mind behind this blog:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- I am simply existing
+- I love tech and want to explore every aspect of it if i can
+- I watch anime
+- Listen to a lot of music
+- I also love sleeping
 
-What else do you need?
+## about me  
 
-### My story
+I am a junior software engineer figuring out my footing in the tech world. Mainly coding in C# and eager to explore the .Net Ecosystem. I want to document my journey as a software engineer as I explore the deep hollow that is the tech world.
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+

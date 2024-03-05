@@ -20,11 +20,19 @@ author: M.L De Veer
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Home: "https://maame-deveer.github.io/techhollow/"
+  Topics:
+    - News: "https://maame-deveer.github.io/techhollow/tags/#news"
+    - Rust: "https://maame-deveer.github.io/techhollow/tags/#rust"
+    - C-Sharp: "https://maame-deveer.github.io/techhollow/tags/#c-sharp"
+    - Tutorials: "https://maame-deveer.github.io/techhollow/tags/#tutorials"
+    - Featured: "https://maame-deveer.github.io/techhollow/tags/#featured"
+    - Journal: "https://maame-deveer.github.io/techhollow/tags/#journal"
+  Portfolio: "https://maame-deveer.github.io/maamedeveer/"
+  About: 
+    - TechHollow: "aboutsite"
+    - Author: "aboutme"
+  Contact: "mailto:maamelankar.deveer@gmail.com"
 
 ################
 # --- Logo --- #
@@ -184,7 +192,7 @@ footer-hover-col: "#0085A1"
 ####################
 
 # To use Disqus comments, sign up to https://disqus.com and fill in your Disqus shortname (NOT the userid)
-#disqus: ""
+disqus: "techhollow"
 
 # To use Facebook Comments, create a Facebook app and fill in the Facebook App ID
 #fb_comment_id: ""
