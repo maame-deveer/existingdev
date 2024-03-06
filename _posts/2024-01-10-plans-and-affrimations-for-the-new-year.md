@@ -14,7 +14,6 @@ author: M.L De Veer
 ## Table of Content
 
 - [Personal Highlights](#personal)
-
 - [Goals For The New Year](#2024goals)
     - [Continue Learning C# And Rust](#continue-learning-csharp-and-rust)
     - [Attend Tech Events And Network ](#networking)
