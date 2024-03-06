@@ -14,101 +14,71 @@ author: M.L De Veer
 ## Table of Content
 
 - [Personal Highlights](#personal)
-    - [Completing My Bachelor's Degree](#degree)
-    - [Created My Portfolio Website And Started A Blog](#portfolio-and-blog)
-    - [Advanced My Knowledge In C-Sharp](#learned-csharp)
-    - [Built My First Class Library](#classlib)
-    - [Joined Game Jams](#gamejams)
-    - [Started Learning Rust](#learned-rust)
-    - [Made My First OpenSource Contribution](#first-opensource-contribution)
 
-- [Gals For The New Year](#2024goals)
+- [Goals For The New Year](#2024goals)
     - [Continue Learning C# And Rust](#continue-learning-csharp-and-rust)
     - [Attend Tech Events And Network ](#networking)
     - [Work On Getting Certifications](#certifications)
     - [Join More Game Jams And Hackerthon](#gamejams-and-hackerthons)
-    - [Build More Personal Projects](#projects)
-    - [Further Into OpenSource](#opensource-involvement)
+    - [Personal Projects and Open Source Contributions](#projects-and-opensource)
     - [Gain Real-World Experience](#work-experience)
 
 
 <a id="personal"></a>
 ## Personal Highlights
 
-<div align="justify"> Looking back my journey in 2023 was full of persnal growth, new experiences, exploration, and hands-on learning. I can proudly say i managed to progress as a young tech professional </div>
+<div align="justify">As the previous year ends and the new year begins, reflecting on the year gone by offers not just a moment of nostalgia but a beacon of motivation for the year ahead. The journey through 2023 was nothing short of an adventure—a blend of challenges met, skills honed, and boundaries pushed. Among the myriad experiences that the year bestowed upon me, completing my studies and getting my Bachelor's Degree in Computer Science, advancing my knowledge in C#, participating in my first game jams, diving into the creation of a class library, made my first opensource contribution and beginning my foray into the Rust programming language stand out as personal and professional highlights. Each of these milestones not only enriched my understanding of software development but also shaped the path I wish to tread in the upcoming year.
 
-<a id="degree"></a>
-### Completing My Bachelor's Degree
-
-<div align="justify"></div>
-
-<a id="portfolio-and-blog"></a>
-### Created My Portfolio Website And Started A Blog
-
-<div align="justify"></div>
-
-<a id="learned-csharp"></a>
-### Advanced My Knowledge In C-Sharp
-
-<div align="justify"></div>
-
-<a id="classlib"></a>
-### Built My First Class Library
-
-<div align="justify"></div>
-
-<a id="gamejams"></a>
-### Joined Game Jams
-
-<div align="justify"></div>
-
-<a id="learned-rust"></a>
-### Started Learning Rust
-
-<div align="justify"></div>
-
-<a id="first-opensource-contribution"></a>
-### Made My First OpenSource Contribution
-
-<div align="justify"></div>
+Using "C# 10 and .NET 6 - Modern Cross-Platform Development" by Mark J. Price, I embarked on a journey to deepen my grasp of C#, a journey that proved to be both enlightening and instrumental in paving the way for future explorations. The game jams, with their themes of robotics and Halloween, offered a hands-on experience in creativity, teamwork, and resilience, even when the outcomes were not as expected. Venturing into the architectural depths of building a class library, opensource and tackling the Rust programming language opened new horizons of coding paradigms and efficiency. This proves that my year has been one of great pogress and i will work on the same happening this year.</div>
 
 
 <a id="2024goals"></a>
 ## Goals For The New Year
 
-<div align="justify"></div>
+<div align="justify">As I pivot towards the horizon of 2024, my ambitions are set not only on advancing my technical skills in Rust and C#, but also on weaving the fabric of meaningful connections within the tech community. The power of networking, underscored by firsthand accounts at a tech event, has illuminated its critical role in navigating the tech job landscape, especially in periods of transition and job search. Alongside, my journey into further education through certifications, community engagement via game jams and hackathons, and contributing to the open-source ecosystem are pillars upon which I plan to build my year.</div>
 
 <a id="continue-learning-csharp-and-rust"></a>
 ### Continue Learning C# And Rust
 
-<div align="justify"></div>
+* <div align="justify">Deepen my understanding and proficiency in Rust, moving beyond foundational courses to tackle more complex projects and concepts.</div>
+
+* <div align="justify">Elevate my C# skills by exploring advanced features, learning frameworks and applying them in real-world scenarios.</div>
 
 <a id="networking"></a>
 ### Attend Tech Events And Network 
 
-<div align="justify"></div>
+* <div align="justify">Prioritize attending tech events and meetups to foster connections within the industry, recognizing the invaluable role of recommendations and personal networks in uncovering job opportunities.</div>
+
+* <div align="justify">Engage more actively in discussions, forums, and social media platforms related to tech, aiming to both learn from and contribute to these communities.</div>
 
 <a id="certifications"></a>
 ### Work On Getting Certifications
 
-<div align="justify"></div>
+* <div align="justify">Pursue targeted certifications to validate my skills formally. I have already gained two certifications this year. One being Foundational C# by FreeCodeCamp certified by Microsoft and The Linux Foundation's Getting Started With Rust. I am also working on getting certified as an Associate Developer sson by taking the IEEE's Associate Developer certification exam.</div>
+
+* <div align="justify">Utilize certifications as a means to demonstrate commitment to continuous learning and to stand out in the job market.</div>
 
 <a id="gamejams-and-hackerthons"></a>
 ### Join More Game Jams And Hackerthon
 
-<div align="justify"></div>
+* <div align="justify">Join more game jams and hackathons to challenge my creativity, enhance my coding skills, and improve my ability to work collaboratively under time constraints.</div>
 
-<a id="projects"></a>
-### Build More Personal Projects
+* <div align="justify">Utilize these platforms not just for learning and skill development, but also for networking and showcasing my abilities to potential employers or collaborators.</div>
 
-<div align="justify"></div>
+<a id="projects-and-opensource"></a>
+### Personal Projects and Open Source Contributions
 
-<a id="opensource-involvement"></a>
-### Further Into OpenSource
+* <div align="justify">Dedicate time to bring personal project ideas to fruition, utilizing these projects as a portfolio to demonstrate my skills and creativity.</div>
 
-<div align="justify"></div>
+* <div align="justify">Deepen my involvement in open-source projects, making more significant contributions to gain experience, visibility, and credibility within the tech community.</div>
 
 <a id="work-experience"></a>
 ### Gain More Work And Real-World Experience
 
-<div align="justify"></div>
+* <div align="justify">Explore avenues for employment and freelancing to apply my skills in real-world scenarios, thereby transitioning from entry-level to more advanced opportunities.</div>
+
+* <div align="justify">Leverage all learning and networking activities to enhance my resume, making it more appealing to potential employers or clients.</div>
+
+## Conclusion
+
+<div align="justify">Setting these goals is a step toward transforming challenges into opportunities and aspirations into achievements. By focusing on continuous learning, networking, and practical experience, I aim to navigate the complexities of the tech industry, aiming for a year where personal growth and professional development go hand in hand.</div>
