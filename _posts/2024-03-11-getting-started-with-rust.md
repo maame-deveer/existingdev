@@ -12,7 +12,7 @@ author: M.L De Veer
 
 ## Table Of Content
 
-- [Installing And Setting Up](#installing-rust)
+- [Installing Rust](#installing-rust)
     - [Installing on Windows](#installing-rust-windows)
     - [Installing on MacOs or Linux](#installing-rust-macos-or-linux)
 - [Hello World](#helloworld)
