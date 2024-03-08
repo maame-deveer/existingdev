@@ -1,7 +1,7 @@
 ## Welcome to Tech Hollow
 
 <p align="center">
-  <img src="/assets/images/logo.png" alt="Tech Hollow Logo" />
+  <img src="/assets/img/logo.png" alt="Tech Hollow Logo" />
 </p>
 
 At Tech Hollow, we delve deep into the realms of technology to bring you enlightening insights, news, trends and project guides. My aim is to document my journey within the complex world of tech and share it with everyone. Explore the hollow that is tech with me.
