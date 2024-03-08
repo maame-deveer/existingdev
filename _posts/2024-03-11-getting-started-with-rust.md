@@ -12,9 +12,9 @@ author: M.L De Veer
 
 ## Table Of Content
 
-- [Installing And Setting Up](#installing-rust)
-    -[Installing on Windows](#installing-rust-windows)
-    -[Installing on MacOs or Linux](#installing-rust-macos-or-linux)
+- [Installing Rust](#installing-rust)
+    - [Installing on Windows](#installing-rust-windows)
+    - [Installing on MacOs or Linux](#installing-rust-macos-or-linux)
 - [Hello World](#helloworld)
 - [Cargo](#cargo)
 - [Learning Resources](#learning-resources)
@@ -29,17 +29,23 @@ author: M.L De Veer
 ### Installing on Windows
 
 <div align="justify">To install rust on windows, visit the rust website <a href="https://www.rust-lang.org/tools/install" target="_blank">here</a> and download the rustup installer. You don't have to do much, just run the file you downloaded and everything will be setup. You can then check if you've successfully installed it by running the following command in cmd or powershell:</div>
+
 ```
 rustc --version
 ```
+
 you should get the following result:
+
 ```
 rustc x.xx.x (xxxxxxxx 20xx-0x-0x)
 ```
+
 <div align="justify">where the x's denote the the version number, commit hash, and commit date for the latest stable version of what you've installed.If you see this then you've successfully installed rust. If not, find installed the folders and add the bin folder to your PATH user variable, it should look something like this:</div>
+
 ```
 C:\Users\username\.cargo\bin
 ```
+
 <div align="justify">if you do not know how to add files or folders to path i suggest checking <a href="https://www.architectryan.com/2018/03/17/add-to-the-path-on-windows-10/" target="_blank">>this article</a> or searching how to. Whichever helps.</div>
 
 
