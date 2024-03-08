@@ -18,7 +18,7 @@ author: M.L De Veer
     - [Continue Learning C# And Rust](#continue-learning-csharp-and-rust)
     - [Attend Tech Events And Network ](#networking)
     - [Work On Getting Certifications](#certifications)
-    - [Join More Game Jams And Hackerthon](#gamejams-and-hackerthons)
+    - [Join More Game Jams And Hackathon](#gamejams-and-hackathons)
     - [Personal Projects and Open Source Contributions](#projects-and-opensource)
     - [Gain Real-World Experience](#work-experience)
 
@@ -28,7 +28,7 @@ author: M.L De Veer
 
 <div align="justify">As the previous year ends and the new year begins, reflecting on the year gone by offers not just a moment of nostalgia but a beacon of motivation for the year ahead. The journey through 2023 was nothing short of an adventure—a blend of challenges met, skills honed, and boundaries pushed. Among the myriad experiences that the year bestowed upon me, completing my studies and getting my Bachelor's Degree in Computer Science, advancing my knowledge in C#, participating in my first game jams, diving into the creation of a class library, made my first opensource contribution and beginning my foray into the Rust programming language stand out as personal and professional highlights. Each of these milestones not only enriched my understanding of software development but also shaped the path I wish to tread in the upcoming year.</div>
 <br>
-<div align="justify">Using "C# 10 and .NET 6 - Modern Cross-Platform Development" by Mark J. Price, I embarked on a journey to deepen my grasp of C#, a journey that proved to be both enlightening and instrumental in paving the way for future explorations. The game jams, with their themes of robotics and Halloween, offered a hands-on experience in creativity, teamwork, and resilience, even when the outcomes were not as expected. Venturing into the architectural depths of building a class library, opensource and tackling the Rust programming language opened new horizons of coding paradigms and efficiency. This proves that my year has been one of great pogress and i will work on the same happening this year.</div>
+<div align="justify">Using "C# 10 and .NET 6 - Modern Cross-Platform Development" by Mark J. Price, I embarked on a journey to deepen my grasp of C#, a journey that proved to be both enlightening and instrumental in paving the way for future explorations. The game jams, with their themes of robotics and Halloween, offered a hands-on experience in creativity, teamwork, and resilience, even when the outcomes were not as expected. Venturing into the architectural depths of building a class library, opensource and tackling the Rust programming language opened new horizons of coding paradigms and efficiency. This proves that my year has been one of great progress and i will work on the same happening this year.</div>
 
 
 <a id="2024goals"></a>
@@ -53,12 +53,12 @@ author: M.L De Veer
 <a id="certifications"></a>
 ### Work On Getting Certifications
 
-* <div align="justify">Pursue targeted certifications to validate my skills formally. I have already gained two certifications this year. One being Foundational C# by FreeCodeCamp certified by Microsoft and The Linux Foundation's Getting Started With Rust. I am also working on getting certified as an Associate Developer sson by taking the IEEE's Associate Developer certification exam.</div>
+* <div align="justify">Pursue targeted certifications to validate my skills formally. I have already gained two certifications this year. One being Foundational C# by FreeCodeCamp certified by Microsoft and The Linux Foundation's Getting Started With Rust. I am also working on getting certified as an Associate Developer soon by taking the IEEE's Associate Developer certification exam.</div>
 
 * <div align="justify">Utilize certifications as a means to demonstrate commitment to continuous learning and to stand out in the job market.</div>
 
 <a id="gamejams-and-hackerthons"></a>
-### Join More Game Jams And Hackerthon
+### Join More Game Jams And Hackathon
 
 * <div align="justify">Join more game jams and hackathons to challenge my creativity, enhance my coding skills, and improve my ability to work collaboratively under time constraints.</div>
 
