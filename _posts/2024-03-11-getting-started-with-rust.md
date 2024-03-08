@@ -78,7 +78,7 @@ and
 rustup self uninstall
 ```
 
-<div align="justify">The rust installation also comes with a copy of its documentation you can access locally using the following command:</div>
+<div align="justify">The rust installation also comes with a copy of its documentation and  you can access it locally using the following command:</div>
 
 ```
 rustup doc
