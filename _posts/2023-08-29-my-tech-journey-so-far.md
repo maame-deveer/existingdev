@@ -4,7 +4,7 @@ title: My Tech Journey So Far - August 2023
 subtitle: Exploring my experiences in tech during this period
 cover-img: /assets/img/journey.jpg
 share-img: /assets/img/journey.jpg
-tags: [Journal]
+tags: [journal]
 author: M.L De Veer
 ---
 

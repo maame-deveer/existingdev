@@ -4,7 +4,7 @@ title: Personal Highlights and Plans for 2024
 subtitle: Looking Back On 2023 and Lining Out My Plans For 2024
 cover-img: /assets/img/plans-affirmations.jpg
 share-img: /assets/img/plans-affirmations.jpg
-tags: [Journal]
+tags: [journal]
 author: M.L De Veer
 ---
 

@@ -4,7 +4,7 @@ title: Tech Highlights of 2023 Unveiling the Future
 subtitle: Looking Back On Tech In 2023
 cover-img: /assets/img/highlights-2023.jpg
 share-img: /assets/img/highlights-2023.jpg
-tags: [News]
+tags: [news]
 author: M.L De Veer
 ---
 
