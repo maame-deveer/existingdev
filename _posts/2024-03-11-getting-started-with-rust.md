@@ -17,6 +17,7 @@ author: M.L De Veer
     - [Installing on MacOs or Linux](#installing-rust-macos-or-linux)
 - [Hello World](#helloworld)
 - [Cargo](#cargo)
+    - [Creating Projects with Cargo](#cargo-project)
 - [Learning Resources](#learning-resources)
 
 <a href="installing-rust"></a>
@@ -90,12 +91,109 @@ rustup self uninstall
 rustup doc
 ```
 
+
 <a href="helloworld"></a>
 ## Hello World
+
+<div align="justify">Like every other programming language out there, we always start learning with a very simple Hello World! console application. I suggest creating a directory where you store all your project folders. I have one in documents named rust and that's where i store all the projects and exercises i complete from the learning resource i use.</div>
+
+* So now in your main directory create a folder called hello_world and open it using your ide of choice. 
+* Then create a file called main.rs, open the file and enter the following code:
+
+```rust
+fn main() {
+    println!("Hello World!");
+}
+```
+
+* <div align="justify">To run this simple program, go to your terminal,make sure you are in the right directory. Usually the terminal in the ide is already at the directory already, but if it's not you can use the cd command and the directory path like below:</div> 
+
+```
+cd C:\Users\username\Documents\rust\hello_world
+```
+
+* then run the following command:
+
+```
+rustc main.rs
+```
+
+* doing this generates a main.exe file that we will execute as seen below:
+
+```
+ .\main.exe
+```
+
+* you should get the following result:
+
+```
+Hello World!
+```
+
+![main.rs](/assets/img/mainrs.jpg)
+
 
 <a href="cargo"></a>
 ## Cargo
 
+<div align="justify">Javascript has NPM, C-Sharp has Nuget while Rust has Cargo has its package manager. Cargo is not just rust's package manager but its build system too. Rust developers use this tool to manage their Rust projects because Cargo handles a lot of tasks for you, such as building your code, downloading the libraries your code depends on, and building those libraries. Cargo comes installed with Rust if you used the official installers stated in the <a href="installing-rust">installation</a> section. You can check if cargo is installed using the command:</div>
+
+```
+cargo --version
+```
+
+<div align="justify">If you see a version number, you have it! If you see an error, such as command not found, look at the documentation for your method of installation to determine how to install Cargo separately.</div>
+
+
+<a href="cargo-project"></a>
+### Creating Projects with Cargo
+
+<div align="justify">Instead of manually doing things like before, we can use cargo to create our project and the needed files and folders will be created for us. Using the below command in your terminal or cmd will create a rust project using cargo:</div>
+
+```
+cargo new hello_cargo
+```
+
+creating a project with cargo will look something like this:
+![cargo](/assets/img/cargo.jpg)
+
+<div align="justify">and unlike before where we had to manually create the folder and script, everything is now done by cargo.</div>
+
+![generated files and folders](/assets/img/files.png) ![hello world](/assets/img/helloworld.png)
+
+and now to build the project with cargo, you use the following command:
+
+```
+cargo build
+```
+
+<div align="justify">this command also generates an executable file in target/debug/hello_cargo.exe. you can run the executable in the terminal like this:</div>
+
+```
+./target/debug/hello_cargo
+```
+
+![cargo build](/assets/img/cargobuild.jpg)
+
+<div align="justify">instead of using cargo build, we can use another command that will compile our code and run it too, this command is :</div>
+
+```
+cargo run
+```
+
+![cargo run](/assets/img/cargorun.jpg)
+
+<div align="justify">you can read more on cargo and its various commands <a href="https://doc.rust-lang.org/book/ch01-03-hello-cargo.html" target="_blank">here</a>. this is a resource i am using to study and some explanations are from there.</div>
+
+
 <a href="learning-resources"></a>
 ## Learning Resources
 
+* <div align="justify"><a href="https://trainingportal.linuxfoundation.org/courses/getting-started-with-rust-lfel1002" target="_blank">**Getting Started with Rust by Linux Foundation :**</a> This is an introductory course that brushes over the rust programming language, cargo , how to write various programming elements (variables , functions and so on) in rust, example programs and a lab to practice. Its a free course and you get a certificate when you are done. You will need a linux foundation account to access this resource, it is also free. create one <a href="https://lfx.linuxfoundation.org/" target="_blank">here</a>.</div>
+
+* <div align="justify"><a href="https://doc.rust-lang.org/book/" target="_blank">**The Rust Book :**</a> This is the resource i use to study. It is very detailed, regularly updated and maintained. There is the same one but more interactive by having quizzes you can solve in each page but its pretty much the same resource. The interactive one is the one i use and you can access it <a href="https://rust-book.cs.brown.edu/experiment-intro.html" target="_blank">here</a>. There is also another book resource called <a href="https://practice.course.rs/" target="_blank">Rust by Practice</a>, as its name suggests this one focuses on a lot of practical studying , so more code less explanations to read.They are all free and up to date.</div>
+
+* <div align="justify"><a href="https://youtu.be/BpPEoZW5IiY" target="_blank">**Rust Programming Complete Course by FreeCodeCamp :**</a> We can alway count on FreeCodeCamp to have tutorials on stuff we want to study. This course 13 hours 59 minutes long and is very detailed. So it's for those who prefer to learn using videos. They also have a shorter one <a href="https://youtu.be/MsocPEZBd-M" target="_blank">Rust For Beginners</a>, which is an hour and 25 minutes long. so use whichever resource you prefer.</div>
+
+
+<div align="justify">In conclusion, Rust emerges as a powerful and distinctive programming language, finding applications in addressing security and memory challenges, particularly within Android development. Its versatile nature allows for the creation of a wide array of applications. The many resources available for study underscores the Rust developer community's commitment to making learning easy and accessible. I have already reached learning ownership in my studies, i am initiating documentation early in my learning journey, recognizing the importance of capturing insights from the outset. As I embark on my exploration of Rust, I anticipate building exciting projects and encourage others to join this dynamic journey in a language that not only challenges but also inspires innovation.</div>
