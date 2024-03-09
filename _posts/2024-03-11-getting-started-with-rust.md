@@ -152,7 +152,7 @@ cargo new hello_cargo
 ```
 
 creating a project with cargo will look something like this:
-![cargo](/assets/img/cargo.jpg)
+![cargo](/assets/img/cargo.png)
 
 <div align="justify">and unlike before where we had to manually create the folder and script, everything is now done by cargo.</div>
 
