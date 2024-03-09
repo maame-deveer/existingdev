@@ -95,10 +95,7 @@ rustup doc
 <a href="helloworld"></a>
 ## Hello World
 
-<div align="justify">Like every other programming language out there, we always start learning with a very simple Hello World! console application. I suggest creating a directory where you store all your project folders. I have one in documents named rust and that's where i store all the projects and exercises i complete from the learning resource i use.</div>
-
-* So now in your main directory create a folder called hello_world and open it using your ide of choice. 
-* Then create a file called main.rs, open the file and enter the following code:
+<div align="justify">Like every other programming language out there, we always start learning with a very simple Hello World! console application. I suggest creating a directory where you store all your project folders. I have one in documents named rust and that's where i store all the projects and exercises i complete from the learning resource i use. So now in your main directory create a folder called hello_world and open it using your ide of choice. Then create a file called main.rs, open the file and enter the following code:</div>
 
 ```rust
 fn main() {
@@ -112,19 +109,19 @@ fn main() {
 cd C:\Users\username\Documents\rust\hello_world
 ```
 
-* then run the following command:
+then run the following command:
 
 ```
 rustc main.rs
 ```
 
-* doing this generates a main.exe file that we will execute as seen below:
+doing this generates a main.exe file that we will execute as seen below:
 
 ```
  .\main.exe
 ```
 
-* you should get the following result:
+you should get the following result:
 
 ```
 Hello World!
@@ -189,11 +186,11 @@ cargo run
 <a href="learning-resources"></a>
 ## Learning Resources
 
-* <div align="justify"><a href="https://trainingportal.linuxfoundation.org/courses/getting-started-with-rust-lfel1002" target="_blank">**Getting Started with Rust by Linux Foundation :**</a> This is an introductory course that brushes over the rust programming language, cargo , how to write various programming elements (variables , functions and so on) in rust, example programs and a lab to practice. Its a free course and you get a certificate when you are done. You will need a linux foundation account to access this resource, it is also free. create one <a href="https://lfx.linuxfoundation.org/" target="_blank">here</a>.</div>
+* <div align="justify">**<a href="https://trainingportal.linuxfoundation.org/courses/getting-started-with-rust-lfel1002" target="_blank">Getting Started with Rust by Linux Foundation :</a>** This is an introductory course that brushes over the rust programming language, cargo , how to write various programming elements (variables , functions and so on) in rust, example programs and a lab to practice. Its a free course and you get a certificate when you are done. You will need a linux foundation account to access this resource, it is also free. create one <a href="https://lfx.linuxfoundation.org/" target="_blank">here</a>.</div>
 
-* <div align="justify"><a href="https://doc.rust-lang.org/book/" target="_blank">**The Rust Book :**</a> This is the resource i use to study. It is very detailed, regularly updated and maintained. There is the same one but more interactive by having quizzes you can solve in each page but its pretty much the same resource. The interactive one is the one i use and you can access it <a href="https://rust-book.cs.brown.edu/experiment-intro.html" target="_blank">here</a>. There is also another book resource called <a href="https://practice.course.rs/" target="_blank">Rust by Practice</a>, as its name suggests this one focuses on a lot of practical studying , so more code less explanations to read.They are all free and up to date.</div>
+* <div align="justify">**<a href="https://doc.rust-lang.org/book/" target="_blank">The Rust Book :</a>** This is the resource i use to study. It is very detailed, regularly updated and maintained. There is the same one but more interactive by having quizzes you can solve in each page but its pretty much the same resource. The interactive one is the one i use and you can access it <a href="https://rust-book.cs.brown.edu/experiment-intro.html" target="_blank">here</a>. There is also another book resource called <a href="https://practice.course.rs/" target="_blank">Rust by Practice</a>, as its name suggests this one focuses on a lot of practical studying , so more code less explanations to read.They are all free and up to date.</div>
 
-* <div align="justify"><a href="https://youtu.be/BpPEoZW5IiY" target="_blank">**Rust Programming Complete Course by FreeCodeCamp :**</a> We can alway count on FreeCodeCamp to have tutorials on stuff we want to study. This course 13 hours 59 minutes long and is very detailed. So it's for those who prefer to learn using videos. They also have a shorter one <a href="https://youtu.be/MsocPEZBd-M" target="_blank">Rust For Beginners</a>, which is an hour and 25 minutes long. so use whichever resource you prefer.</div>
+* <div align="justify">**<a href="https://youtu.be/BpPEoZW5IiY" target="_blank">Rust Programming Complete Course by FreeCodeCamp :</a>** We can alway count on FreeCodeCamp to have tutorials on stuff we want to study. This course 13 hours 59 minutes long and is very detailed. So it's for those who prefer to learn using videos. They also have a shorter one <a href="https://youtu.be/MsocPEZBd-M" target="_blank">Rust For Beginners</a>, which is an hour and 25 minutes long. so use whichever resource you prefer.</div>
 
 
 <div align="justify">In conclusion, Rust emerges as a powerful and distinctive programming language, finding applications in addressing security and memory challenges, particularly within Android development. Its versatile nature allows for the creation of a wide array of applications. The many resources available for study underscores the Rust developer community's commitment to making learning easy and accessible. I have already reached learning ownership in my studies, i am initiating documentation early in my learning journey, recognizing the importance of capturing insights from the outset. As I embark on my exploration of Rust, I anticipate building exciting projects and encourage others to join this dynamic journey in a language that not only challenges but also inspires innovation.</div>
