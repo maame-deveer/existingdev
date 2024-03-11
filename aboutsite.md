@@ -16,4 +16,4 @@ Tech Hollow is more than a blog; it's a community. Join me as I explore the late
 
 Connect with me on [Twitter](https://twitter.com/maame_deveer) and [Subscribe](https://youtube.com/@techhollow?si=1iFY3W89gwFXvxvY) to my YouTube channel to stay updated.
 
-For inquiries, your can contact me using the contact link on the navbar.
+For inquiries, your can email me using the contact link on the navbar or the mail symbol on the footer.
