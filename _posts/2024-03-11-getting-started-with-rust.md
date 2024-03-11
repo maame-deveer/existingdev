@@ -20,8 +20,10 @@ author: M.L De Veer
     - [Creating Projects with Cargo](#cargo-project)
 - [Learning Resources](#learning-resources)
 
+
 <a href="installing-rust"></a>
 ## Installing Rust
+
 
 <div align="justify">So let's set up our development environment. I am going to assume anyone reading this already has an ide (integrated development environment) they use. If not then download one. Personally I use vscode and you can download it <a href="https://code.visualstudio.com/download" target="_blank">here</a>.</div>
 
@@ -30,6 +32,7 @@ author: M.L De Veer
 ### Installing on Windows
 
 <div align="justify">To install rust on windows, visit the rust website <a href="https://www.rust-lang.org/tools/install" target="_blank">here</a> and download the rustup installer. You don't have to do much, just run the file you downloaded and everything will be setup. You can then check if you've successfully installed it by running the following command in cmd or powershell:</div>
+
 
 ```
 rustc --version
@@ -43,9 +46,11 @@ rustc x.xx.x (xxxxxxxx 20xx-0x-0x)
 
 <div align="justify">where the x's denote the the version number, commit hash, and commit date for the latest stable version of what you've installed.If you see this then you've successfully installed rust. If not, find installed the folders and add the bin folder to your PATH user variable, it should look something like this:</div>
 
+
 ```
 C:\Users\username\.cargo\bin
 ```
+
 
 <div align="justify">if you do not know how to add files or folders to path i suggest checking <a href="https://www.architectryan.com/2018/03/17/add-to-the-path-on-windows-10/" target="_blank">this article</a> or searching how to. Whichever helps.</div>
 
@@ -53,7 +58,9 @@ C:\Users\username\.cargo\bin
 <a href="installing-rust-macos-or-linux"></a>
 ### Installing on MacOS or Linux
 
+
 <div align="justify">This also applies if you want to install it using the Windows Subsystem for Linux. Open a terminal and run the following command:</div>
+
 
 ```
 $ curl --proto '=https' --tlsv1.2 https://sh.rustup.rs -sSf | sh
@@ -67,14 +74,17 @@ Rust is installed now. Great!
 
 <div align="justify">According to the rust book (this section is mostly from there, since i do not use any of these OS), a learning resource i use, macOS and linux users have to also install something called a linker if they do not already have one. It is a program that Rust uses to join its compiled outputs into one file. If you get linker errors, you should install a C compiler, which will typically include a linker. A C compiler is also useful because some common Rust packages depend on C code and will need a C compiler. On macOS, you can get a C compiler by running:</div>
 
+
 ```
 $ xcode-select --install
 ```
+
 
 <div align="justify">Linux users should generally install GCC or Clang, according to their distribution’s documentation. For example, if you use Ubuntu, you can install the <span style="background-color: #d3d3d3">build-essential</span> package.</div>
 
 
 <div align="justify">you can update rust or uninstall it using the following commands:</div>
+
 
 ```
 rustup update
@@ -96,7 +106,9 @@ rustup doc
 <a href="helloworld"></a>
 ## Hello World
 
+
 <div align="justify">Like every other programming language out there, we always start learning with a very simple Hello World! console application. I suggest creating a directory where you store all your project folders. I have one in documents named rust and that's where i store all the projects and exercises i complete from the learning resource i use. So now in your main directory create a folder called hello_world and open it using your ide of choice. Then create a file called main.rs, open the file and enter the following code:</div>
+
 
 ```rust
 fn main() {
@@ -146,7 +158,7 @@ cargo --version
 <a href="cargo-project"></a>
 ### Creating Projects with Cargo
 
-<div align="justify">Instead of manually doing things like before, we can use cargo to create our project and the needed files and folders will be created for us. Using the below command in your terminal or cmd will create a rust project using cargo:</div>
+<div align="justify">Instead of manually doing things like before, we can use cargo to create our project and the needed files and folders will be generated for us. Using the below command in your terminal or cmd will create a rust project using cargo:</div>
 
 ```
 cargo new hello_cargo
@@ -186,6 +198,7 @@ cargo run
 
 <a href="learning-resources"></a>
 ## Learning Resources
+
 
 * <div align="justify"><a href="https://trainingportal.linuxfoundation.org/courses/getting-started-with-rust-lfel1002" target="_blank">Getting Started with Rust by Linux Foundation :</a> This is an introductory course that brushes over the rust programming language, cargo , how to write various programming elements (variables , functions and so on) in rust, example programs and a lab to practice. Its a free course and you get a certificate when you are done. You will need a linux foundation account to access this resource, it is also free. create one <a href="https://lfx.linuxfoundation.org/" target="_blank">here</a>.</div>
 
