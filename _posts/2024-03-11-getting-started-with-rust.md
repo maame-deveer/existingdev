@@ -47,7 +47,7 @@ rustc x.xx.x (xxxxxxxx 20xx-0x-0x)
 C:\Users\username\.cargo\bin
 ```
 
-<div align="justify">if you do not know how to add files or folders to path i suggest checking <a href="https://www.architectryan.com/2018/03/17/add-to-the-path-on-windows-10/" target="_blank">>this article</a> or searching how to. Whichever helps.</div>
+<div align="justify">if you do not know how to add files or folders to path i suggest checking <a href="https://www.architectryan.com/2018/03/17/add-to-the-path-on-windows-10/" target="_blank">this article</a> or searching how to. Whichever helps.</div>
 
 
 <a href="installing-rust-macos-or-linux"></a>
