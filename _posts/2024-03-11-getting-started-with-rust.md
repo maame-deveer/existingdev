@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Getting Started With Rust
-subtitle: Starting Rust And Setting Up Your Learning Environment
+subtitle: Documenting My Rust Learning Journey
 cover-img: /assets/img/rust.jpg
 share-img: /assets/img/rust.jpg
 tags: [rust]
