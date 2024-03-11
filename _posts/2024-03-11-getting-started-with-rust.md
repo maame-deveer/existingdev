@@ -72,7 +72,8 @@ $ xcode-select --install
 ```
 
 <div align="justify">Linux users should generally install GCC or Clang, according to their distribution’s documentation. For example, if you use Ubuntu, you can install the <span style="background-color: #d3d3d3">build-essential</span> package.</div>
-<br>
+
+
 <div align="justify">you can update rust or uninstall it using the following commands:</div>
 
 ```
