@@ -140,7 +140,7 @@ you should get the following result:
 Hello World!
 ```
 
-![main.rs](/assets/img/mainrs.jpg)
+![main.rs](https://maame-deveer.github.io/techhollow/assets/img/mainrs.jpg)
 
 
 <a href="cargo"></a>
@@ -165,11 +165,11 @@ cargo new hello_cargo
 ```
 
 creating a project with cargo will look something like this:
-![cargo](/assets/img/cargo.png)
+![cargo](https://maame-deveer.github.io/techhollow/assets/img/cargo.png)
 
 <div align="justify">and unlike before where we had to manually create the folder and script, everything is now done by cargo.</div>
 
-![generated files and folders](/assets/img/files.png) ![hello world](/assets/img/helloworld.png)
+![generated files and folders](https://maame-deveer.github.io/techhollow/assets/img/files.png) ![hello world](https://maame-deveer.github.io/techhollow/assets/img/helloworld.png)
 
 and now to build the project with cargo, you use the following command:
 
@@ -191,7 +191,7 @@ cargo build
 cargo run
 ```
 
-![cargo run](/assets/img/cargorun.jpg)
+![cargo run](https://maame-deveer.github.io/techhollow/assets/img/cargorun.jpg)
 
 <div align="justify">you can read more on cargo and its various commands <a href="https://doc.rust-lang.org/book/ch01-03-hello-cargo.html" target="_blank">here</a>. this is a resource i am using to study and some explanations are from there.</div>
 
@@ -209,4 +209,4 @@ cargo run
 * <div align="justify"><a href="https://youtu.be/BpPEoZW5IiY" target="_blank">Rust Programming Complete Course by FreeCodeCamp :</a> We can alway count on FreeCodeCamp to have tutorials on stuff we want to study. This course is 13 hours 59 minutes long and is very detailed. So it's for those who prefer to learn using videos. They also have a shorter one <a href="https://youtu.be/MsocPEZBd-M" target="_blank">Rust For Beginners</a>, which is an hour and 25 minutes long. so use whichever resource you prefer.</div>
 
 
-<div align="justify">In conclusion, Rust emerges as a powerful and distinctive programming language, finding applications in addressing security and memory challenges, especially within <a href="https://www.securityweek.com/google-contributes-1-million-to-rust-says-it-prevented-hundreds-of-android-vulnerabilities/" target="_blank">Android development</a>. Its versatile nature allows for the creation of a wide array of applications. The many resources available for study underscores the Rust developer community's commitment to making learning rust easy and accessible. I have already reached learning ownership in my studies, i am initiating documenting early in my learning journey, recognizing the importance of capturing insights from the outset. As I embark on my exploration of Rust, I anticipate building exciting projects and encourage others to join this dynamic journey in a language that not only challenges but also inspires innovation.</div>
+In conclusion, Rust emerges as a powerful and distinctive programming language, finding applications in addressing security and memory challenges, especially within <a href="https://www.securityweek.com/google-contributes-1-million-to-rust-says-it-prevented-hundreds-of-android-vulnerabilities/" target="_blank">Android development</a>. Its versatile nature allows for the creation of a wide array of applications. The many resources available for study underscores the Rust developer community's commitment to making learning rust easy and accessible. I have already reached learning ownership in my studies, i am initiating documenting early in my learning journey, recognizing the importance of capturing insights from the outset. As I embark on my exploration of Rust, I anticipate building exciting projects and encourage others to join this dynamic journey in a language that not only challenges but also inspires innovation.
