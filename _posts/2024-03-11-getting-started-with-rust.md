@@ -134,7 +134,7 @@ Hello World!
 <a href="cargo"></a>
 ## Cargo
 
-<div align="justify">Javascript has NPM, C-Sharp has Nuget while Rust has Cargo has its package manager. Cargo is not just rust's package manager but its build system too. Rust developers use this tool to manage their Rust projects because Cargo handles a lot of tasks for you, such as building your code, downloading the libraries your code depends on, and building those libraries. Cargo comes installed with Rust if you used the official installers stated in the <a href="installing-rust">installation</a> section. You can check if cargo is installed using the command:</div>
+<div align="justify">Javascript has NPM, C-Sharp has Nuget while Rust has Cargo has its package manager. Cargo is not just rust's package manager but its build system too. Rust developers use this tool to manage their Rust projects because Cargo handles a lot of tasks for you, such as building your code, downloading the libraries your code depends on, and building those libraries. Cargo comes installed with Rust if you used the official installers stated in the installation section. You can check if cargo is installed using the command:</div>
 
 ```
 cargo --version
