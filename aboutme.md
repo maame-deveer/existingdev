@@ -14,6 +14,6 @@ Hi I'm Maame Lankar De Veer, the wandering mind behind this blog:
 
 ## about me  
 
-I am a junior software engineer figuring out my footing in the tech world. Mainly coding in C# and eager to explore the .Net Ecosystem. Also currently learning rust, excited to explore its memory management and safety capabilities. I want to document my journey as a software engineer as I explore the deep hollow that is the tech world.
+I am a junior software engineer figuring out my footing in the tech world. Mainly coding in C# and eager to explore the .Net Ecosystem. Also currently learning rust, excited to explore its memory management and safety capabilities. I want to document my journey as a software engineer as I explore various tools, languages and innovations in my journey within the tech world.
 
 
