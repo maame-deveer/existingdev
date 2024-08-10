@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: Existing Techie
+title: Existing Dev
 
 # Your name to show in the footer
 author: M.L De Veer
@@ -20,18 +20,18 @@ author: M.L De Veer
 ###############################################
 
 navbar-links:
-  Home: "https://maame-deveer.github.io/existingtechie/"
+  Home: "https://maame-deveer.github.io/existingdev/"
   Topics:
-    - News: "https://maame-deveer.github.io/techhollow/tags/#news"
-    - Rust: "https://maame-deveer.github.io/techhollow/tags/#rust"
-    - C-Sharp: "https://maame-deveer.github.io/techhollow/tags/#c-sharp"
-    - Game Dev: "https://maame-deveer.github.io/techhollow/tags/#gamedev"
-    - Tutorial: "https://maame-deveer.github.io/techhollow/tags/#tutorials"
-    - Featured: "https://maame-deveer.github.io/techhollow/tags/#featured"
-    - Journal: "https://maame-deveer.github.io/techhollow/tags/#journal"
+    - News: "https://maame-deveer.github.io/existingdev/tags/#news"
+    - Rust: "https://maame-deveer.github.io/existingdev/tags/#rust"
+    - C-Sharp: "https://maame-deveer.github.io/existingdev/tags/#c-sharp"
+    - Game Dev: "https://maame-deveer.github.io/existingdev/tags/#gamedev"
+    - Tutorial: "https://maame-deveer.github.io/existingdev/tags/#tutorials"
+    - Featured: "https://maame-deveer.github.io/existingdev/tags/#featured"
+    - Journal: "https://maame-deveer.github.io/existingdev/tags/#journal"
   Portfolio: "https://maame-deveer.github.io/maamedeveer/"
   About: 
-    - Existing Techie: "aboutsite"
+    - Existing Dev: "aboutsite"
     - Author: "aboutme"
   Contact: "mailto:maamelankar.deveer@gmail.com"
 
@@ -63,7 +63,7 @@ social-network-links:
   linkedin: maamelankardeveer
   twitter: maame_deveer
   github: maame-deveer
-  youtube: "@existingtechie"
+  youtube: "@existingdev"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
 #  medium: yourname
 #  reddit: yourname
@@ -83,7 +83,7 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: Explore tech with a fellow tech enthusiast
+rss-description: Existing In A World Of Tech
 
 ###########################
 # --- General options --- #
